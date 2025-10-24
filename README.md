@@ -1,4 +1,4 @@
-# 📺 AllinOne - Video Downloader & Media Processing Suite
+# 📺 Tea-Rex - Video Downloader & Media Processing Suite
 
 A comprehensive desktop application for downloading videos from Instagram and YouTube, with advanced transcription capabilities for Persian language, EPUB to PDF conversion, and video subtitle generation.
 
@@ -114,7 +114,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Previous**: Core functionality for downloading, transcription, and conversion
 
 ---
-# 📺 (AllinOne) - مجموعه دانلود و پردازش رسانه
+# 📺 (Tea-Rex) - مجموعه دانلود و پردازش رسانه
 
 یک نرم‌افزار دسکتاپ جامع برای دانلود ویدیوهای اینستاگرام و یوتیوب، با قابلیت‌های پیشرفته رونویسی (ترنسکرایب) به زبان فارسی، تبدیل EPUB به PDF و تولید زیرنویس ویدیو.
 
